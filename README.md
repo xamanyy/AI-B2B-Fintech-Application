@@ -32,6 +32,7 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 - ADD, EDIT and DELETE functionalities.
 - Analytical Views,Advance Search,Predict are the Advance functionalities.
 - Easy naviagtion implemented through Server-Side-Pagination.
+- Single Page Application with Responsiveness.
 
 ---
 
