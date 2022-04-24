@@ -70,3 +70,9 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 - **Postman API Testing Tools**
 - **MYSQL Workbench**
 - **Jupyter Notebook**
+
+
+## :man: Project Created & Maintained By
+
+<b>Aman Singh</b>
+
