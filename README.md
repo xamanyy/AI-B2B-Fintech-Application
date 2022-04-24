@@ -74,5 +74,14 @@ The B2B world operates differently from the B2C or C2C world. Businesses work wi
 
 ## :iphone: Screenshots
 
-
+![frontpage_1](https://user-images.githubusercontent.com/25785435/164988581-ce8a28a9-8f9b-49e3-8899-a71293cd804d.PNG)
+![Uploading All_ro![single_row_selected](https://user-images.githubusercontent.com/25785435/164988651-aad9a267-9389-43e7-89d5-6c4f442fb8ac.PNG)
+![prediction_agingBucket](https://user-images.githubusercontent.com/25785435/164988641-43dd7eb7-be7b-40dc-bca4-8baa96d10712.PNG)
+![frontpage_2](https://user-images.githubusercontent.com/25785435/164988590-551b8b9e-d28b-4a22-a284-18e29b2032a7.PNG)
+![add](https://user-images.githubusercontent.com/25785435/164988605-33f24ebf-c1c7-46d0-809e-9869b47b5744.PNG)
+![advance_search](https://user-images.githubusercontent.com/25785435/164988609-1a36cfab-9094-4040-8288-93d4e7cd2b39.PNG)
+![analytical_view](https://user-images.githubusercontent.com/25785435/164988629-e7f5b692-7bed-4a5d-a9d6-f5cd60c0b4df.PNG)
+![delete](https://user-images.githubusercontent.com/25785435/164988632-b1d3f504-490a-423b-b77b-806f4570c906.PNG)
+![edit](https://user-images.githubusercontent.com/25785435/164988633-1b4691d4-a3b1-47fd-bef3-c082db1cf1e7.PNG)
+![bar_chart_analytical_view](https://user-images.githubusercontent.com/25785435/164988659-23abaf80-9fd8-47af-bed1-c1de5bfc9089.PNG)
 
